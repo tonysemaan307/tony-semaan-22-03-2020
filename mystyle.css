@@ -1,0 +1,24 @@
+
+
+    body{
+      -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-image: url('http://www.tonysemaan.net/index.html/mezdaroon.png') ;
+    }
+    tbody{
+    border: 1px solid black;
+    }
+
+    h2{
+      font-size: 30px;
+      text-align: center;
+      color: blue;
+    }
+    label{
+      position:fixed;
+      border: 1px solid black;
+      width: 800px;
+      height: 500px;
+    }
